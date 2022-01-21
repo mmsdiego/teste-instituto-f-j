@@ -1,4 +1,4 @@
-# teste-instituto-j-f
+# teste instituto J&f
 
 resposta para o teste do instituto J&F
 
@@ -7,12 +7,14 @@ na pasta **src** tem dois arquivos
 1. fibonacci.js
 
   > neste aquivo está a solução desse desafio
+  > 
   > *Desenvolva uma função que recebe duas variáveis do tipo número (numInicial, qtd) utilizando essas propriedades, retorne um array com a sequência de fibonnacci que deve iniciar do número indicado na `numInicial` (incluindo o próprio número caso esse faça parte da sequência) e possuir a quantidade de números indicado na `qtd`.*
 
 2. comboProdutos.js
 
   > neste aquivo está a solução desse desafio
-  > *2 - Desenvolva uma função que receba dois arrays de objetos conforme abaixo:
+  > 
+  > *Desenvolva uma função que receba dois arrays de objetos conforme abaixo:
   > Ex.: arr1 = [
   >{id: 1, item: 'pastel', valor: 7.9},
   >{id: 2, item: 'coxinha de frango', valor: 6},
