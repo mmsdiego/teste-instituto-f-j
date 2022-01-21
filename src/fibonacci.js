@@ -1,4 +1,7 @@
 const fibonacci = (numIni, qtd) => {
+
+  if (numIni < 0 || qtd < 0 ) return 'Não é possível usar números negativos'
+
   let soma = 0
   let anterior = 0
   let proximo = 1
@@ -29,3 +32,7 @@ console.log(fibonacci(0, 5))
 console.log(fibonacci(5, 5))
 
 console.log(fibonacci(19, 3))
+
+console.log(fibonacci(-1, 3))
+
+console.log(fibonacci(5, -3))
